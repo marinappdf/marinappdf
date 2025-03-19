@@ -4,7 +4,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BCC001&center=true&vCenter=true&width=435&lines=Marina+de+Freitas+%3AD;Cientista+de+Dados;Web+Desenvolvimento;Educa%C3%A7%C3%A3o+Tecnol%C3%B3gica)](https://git.io/typing-svg)
 
 ---
-
 # Publicações Acadêmicas
 
 Nesse repositório você irá encontrar minhas principais publicaçoes acadêmicas, na pasta "Publicações
@@ -30,3 +29,16 @@ Nesse repositório você irá encontrar minhas principais publicaçoes acadêmic
 ### [Educação em ciências na perspectiva da Teoria da sociedade do conhecimento de Nico Stehr](https://github.com/marinappdf/marinappdf/blob/main/Publica%C3%A7%C3%B5es/Educa%C3%A7%C3%A3o%20em%20ci%C3%AAncias%20na%20perspectiva%20da%20Teoria%20da%20sociedade%20do%20conhecimento%20de%20Nico%20Stehr.pdf)
 
 #### [Ensaio em Revista](https://www.scielo.br/j/epec/a/8ndrtMp3xXSP6cZ6HqrdPhr/?lang=pt)
+
+
+## Projetos em outros repositórios
+
+#### [Módulo de Controle de Temperatura](https://git.cta.if.ufrgs.br/mfreitas/Modulo_de_Controle_de_Temperatura)
+
+#### [Irrigador Automático](https://git.cta.if.ufrgs.br/mfreitas/irrigador_automatico)
+
+#### [Documentação Interna do CTA](https://git.cta.if.ufrgs.br/suporte-cta/)
+
+#### [Estações Meteorológicas Modulares](https://git.cta.if.ufrgs.br/emm)
+
+##### [Documentação no Site do CTA](http://cta.if.ufrgs.br/projects/estacao-meteorologica-modular/wiki/Wiki)
